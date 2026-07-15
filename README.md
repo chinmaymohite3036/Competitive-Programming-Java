@@ -24,7 +24,7 @@ Competitive-Programming-Java/
 ├── Codeforces/
 │   ├── 4A_Watermelon.java
 │   ├── 71A_WayTooLongWords.java
-│   ├── ...
+│   ├── 231A_Team
 │
 └── README.md
 ```
@@ -49,7 +49,7 @@ Competitive-Programming-Java/
 
 | Platform | Solved |
 |----------|--------|
-| Codeforces | 2 |
+| Codeforces | 3 |
 
 > This table will be updated as I solve more problems.
 
