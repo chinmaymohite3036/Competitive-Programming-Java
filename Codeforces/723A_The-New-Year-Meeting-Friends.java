@@ -8,11 +8,10 @@ public class Main {
 
         int[] arr = new int[3];
 
-        for(int i = 0; i < 3; i++){
-        
+        for(int i = 0; i < 3; i++){        
             arr[i] = sc.nextInt();
-            
         }
+
         Arrays.sort(arr);
         
         int distance = arr[2] - arr[0];
