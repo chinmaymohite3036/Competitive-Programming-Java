@@ -49,7 +49,7 @@ Competitive-Programming-Java/
 
 | Platform | Solved |
 |----------|--------|
-| Codeforces| 51 |
+| Codeforces| 52 |
 | Leetcode| 29 |
 
 > This table will be updated as I solve more problems.
