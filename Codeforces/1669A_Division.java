@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.util.System.in);
+        Scanner sc = new Scanner(System.in);
         
         // Read the number of test cases
         int t = sc.nextInt();
