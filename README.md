@@ -49,8 +49,8 @@ Competitive-Programming-Java/
 
 | Platform | Solved |
 |----------|--------|
-| Codeforces| 69 |
-| Leetcode| 47 |
+| Codeforces| 82 |
+| Leetcode| 60 |
 
 > This table will be updated as I solve more problems.
 
